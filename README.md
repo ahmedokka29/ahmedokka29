@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ahmed.okka@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RqruBlp7SNvuPET_4I9uG1PuExMb24aK/view?usp=sharing](https://drive.google.com/file/d/1RqruBlp7SNvuPET_4I9uG1PuExMb24aK/view?usp=sharing)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1RqruBlp7SNvuPET_4I9uG1PuExMb24aK/view?usp=sharing](https://drive.google.com/file/d/1RqruBlp7SNvuPET_4I9uG1PuExMb24aK/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
