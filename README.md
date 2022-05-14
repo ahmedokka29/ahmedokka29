@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - 👨🏻‍💻 I'm a Junior Communication and Computer Engineering Student at **Shoubra Faculty of Engineering**
 
-- 🌱 I’m currently learning **FWD Data Analysis**
+<!-- - 🌱 I’m currently learning **FWD Data Analysis** -->
 
-- 🔭 I’m currently working on **Data Visualization Project and University Database System**
+- 🔭 I’m currently working on **Algorithms Project and University Database System**
 
 - 📫 How to reach me **ahmed.okka@hotmail.com**
 
