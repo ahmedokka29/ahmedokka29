@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Ahmed Gamal 3Okka</h1>
-<h3 align="center">Have passion for Data Analysis and Flutter</h3>
-
+<h1 align="center">Hi 👋, I'm Ahmed Okka</h1>
+<!-- <h3 align="center">Have passion for Data Analysis and Flutter</h3>
+ -->
 - 👨🏻‍💻 I'm a Junior Communication and Computer Engineering Student at **Shoubra Faculty of Engineering**
 
 - 🌱 I’m currently learning **Web developing** and preparing to **ICPC** 
