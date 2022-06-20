@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ahmed Okka</h1>
 <!-- <h3 align="center">Have passion for Data Analysis and Flutter</h3>
  -->
-- 👨🏻‍💻 I'm a Junior Communication and Computer Engineering Student at **Shoubra Faculty of Engineering**
+ 
+-  👨🏻‍💻 I'm a Senior Computer Engineering Student at **Shoubra Faculty of Engineering**
 
-- 🌱 I’m currently learning **Web developing** and preparing to **ICPC** 
+- 🌱 I’m currently learning **Web developing** and preparing to **ICPC**
 
-<!-- - 🔭 I’m currently working on **Algorithms Project and University Database System**
- -->
 - 📫 How to reach me **ahmed.okka@hotmail.com**
+
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1RqruBlp7SNvuPET_4I9uG1PuExMb24aK/view?usp=sharing](https://drive.google.com/file/d/1RqruBlp7SNvuPET_4I9uG1PuExMb24aK/view?usp=sharing) -->
 
