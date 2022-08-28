@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  
 -  👨🏻‍💻 I'm a Senior Computer Engineering Student at **Shoubra Faculty of Engineering**
 
-- 🌱 I’m currently learning **Web developing** and preparing to **ICPC**
+- 🌱 I’m currently Intern at Link Development as System Analyst  
 
 - 📫 How to reach me **ahmed.okka@hotmail.com**
 
