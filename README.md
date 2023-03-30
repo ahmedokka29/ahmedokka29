@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Okka</h1>
-<img  align="center" alt="Coder GIF"  width = 100% src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img  align="right" alt="Coder GIF"  height=250 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 
 
