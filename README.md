@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Okka</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Egypt</h3>
 
-- 🔭 I’m currently working on [ML-zoomcamp](https://github.com/ahmedokka29/ml-zoomcamp)
+- 🔭 I’m currently working on [DEPI Program](https://depi.gov.eg/)
 
 - 🤝 I’m currently Intern at ALX as Data Scientist  
   
