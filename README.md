@@ -12,6 +12,8 @@
 
 ## 🛠️ Projects
 
+### ML Zoomcamp Projects
+
 |Name| Description | Technologies |
 |---|---|---|
 |[Binary-Prediction-of-Smoker-Status-using-Bio-Signals](https://github.com/ahmedokka29/Binary-Prediction-of-Smoker-Status-using-Bio-Signals)| predictive models with smoking status as the prediction target. The task is to help them create a machine learning model to identify the smoking status of an individual using bio-signals | Flask / Render / ML / XGboost |
