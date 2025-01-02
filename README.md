@@ -1,14 +1,14 @@
 ## Hi, I'm Ahmed Okka a Machine Learning Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
 
-- 🔭 I’m currently Intern at [DEPI Program](https://depi.gov.eg/)
+<!-- - 🔭 I’m currently Intern at [DEPI Program](https://depi.gov.eg/) -->
 
-- 🤝 I’m currently Intern at ALX as Data Scientist  
+<!-- - 🤝 I’m currently Intern at ALX as Data Scientist   -->
   
-- 🌱 I’m currently learning **Azure AI** , **Deep Learning**
+- 🌱 I’m currently practicing **Problem Solving** check out [LeetLearningLogs](https://github.com/ahmedokka29/LeetLearningLogs)
 
 - 📫 How to reach me **<ahmed.okka@hotmail.com>**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ql5Oezhyc08tBdzeKfGoIC6S_x1lIG6v/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LEzCnj-G2VOAPqNggmrYClnBwxqdE6SI/view?usp=drive_link)
 
 ## 🛠️ Projects
 
