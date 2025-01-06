@@ -21,9 +21,11 @@
 
 ### Kaggle Playgrounds
 
-|Name| Description | Technologies |
-|---|---|---|
-|[Blank](https://github.com/ahmedokka29)| Blank | Blank |
+| Playground Name | Description | Technologies | Kaggle Link | GitHub Notebook Link |
+|-----------------|-------------|--------------|-------------|----------------------|
+| [Used Car Price Prediction - S4E9](https://github.com/ahmedokka29/Kaggle-Chronicles/blob/main/PG-S4-E9%20%7C%20AutoML-Submission.ipynb) | Predicting used car prices using features like brand, model, mileage, and fuel type. Includes data cleaning, EDA, feature engineering, and model building with Linear Regression and H2O AutoML. | Python, Pandas, Matplotlib, Seaborn, Scikit-learn, H2O AutoML | [Kaggle Playground Link](https://www.kaggle.com/competitions/playground-series-s4e9) | [GitHub Notebook Link](https://github.com/ahmedokka29/Kaggle-Chronicles/blob/main/PG-S4-E9%20%7C%20AutoML-Submission.ipynb) |
+| [Mushroom Classification - S4E8](https://github.com/ahmedokka29/Kaggle-Chronicles/blob/main/PG-S4-E8%20--%20EDA-Modeling-Submission.ipynb) | Predicting whether a mushroom is edible or poisonous using features like cap shape, odor, and habitat. Includes EDA, data preprocessing, feature engineering, and modeling with XGBoost, LightGBM, and CatBoost. | Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, XGBoost, LightGBM, CatBoost, Missingno | [Kaggle Playground Link](https://www.kaggle.com/competitions/playground-series-s4e8) | [GitHub Notebook Link](https://github.com/ahmedokka29/Kaggle-Chronicles/blob/main/PG-S4-E8%20--%20EDA-Modeling-Submission.ipynb) |
+| ... | ... | ... | ... | ... |
 
 
 ## 🤝🏻 Connect with Me
