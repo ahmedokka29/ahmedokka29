@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **<ahmed.okka@hotmail.com>**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RhQ_xkAFupdSH_ezF9l2u1nMsVfhqf8Z/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vXKA3hk3Yxi3_cmzhJkEc0UOpCd50Y9N/view?usp=sharing)
 
 ## 🛠️ Projects
 
