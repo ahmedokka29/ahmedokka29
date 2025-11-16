@@ -1,14 +1,11 @@
-## Hi, I'm Ahmed Okka a Machine Learning Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
+## Hi, I'm Ahmed Gamal a AI Cybersecurity Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
 
-<!-- - 🔭 I’m currently Intern at [DEPI Program](https://depi.gov.eg/) -->
-
-<!-- - 🤝 I’m currently Intern at ALX as Data Scientist   -->
   
-- 🌱 I’m currently practicing **Problem Solving** check out [LeetLearningLogs](https://github.com/ahmedokka29/LeetLearningLogs)
+- 🌱 I’m currently Learning **AI Agent & AI Red Teamer**
 
 - 📫 How to reach me **<ahmed.okka@hotmail.com>**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vXKA3hk3Yxi3_cmzhJkEc0UOpCd50Y9N/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lJBB7v960VY8vG1K5SXYghAk2bh68h9d/view?usp=sharing)
 
 ## 🛠️ Projects
 
