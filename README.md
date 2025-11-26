@@ -3,7 +3,7 @@
   
 - 🌱 I’m currently Learning **AI Agent & AI Red Teamer**
 
-- 📫 How to reach me **<ahmed.okka@hotmail.com>**
+- 📫 How to reach me **<ahmedgamal.dev@hotmail.com>**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lJBB7v960VY8vG1K5SXYghAk2bh68h9d/view?usp=sharing)
 
