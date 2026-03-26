@@ -54,18 +54,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedokka29&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedokka29&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-</div>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="center">
